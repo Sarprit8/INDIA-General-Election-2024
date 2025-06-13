@@ -35,3 +35,5 @@ Mastered the use of DAX, Drill-through, Bookmarks, and complex visual storytelli
 
 Developed by
 Sarprit Singh Gaidhu
+
+(ALL EXCEL FILE HAS BEEN CLEAND AND AND MAINTAIN WITH THE CSV FILE) 
